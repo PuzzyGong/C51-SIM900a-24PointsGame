@@ -13,4 +13,4 @@ notes：要配有红外遥控器
 型号：LCD1602
 ### GRPS/GSM无线通信 
 型号：SIM900a    
-notes：1.要用移动SIM卡；2.移动SIM卡不能用廉价的
+notes：1.要用 **移动** SIM卡；2.移动SIM卡不能用廉价的
