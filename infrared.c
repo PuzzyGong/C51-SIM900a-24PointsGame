@@ -1,3 +1,13 @@
+//********************************//
+//Copyright(C),
+//FileName:
+//Author:		Puzzy Gong
+//Version:
+//Date:			2022/6/10
+//Description:
+//Others:
+//********************************//
+
 #include "infrared.h"
 
 sbit  IR_INPUT = P3^2;

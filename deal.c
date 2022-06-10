@@ -1,3 +1,13 @@
+//********************************//
+//Copyright(C),
+//FileName:
+//Author:		Puzzy Gong
+//Version:
+//Date:			2022/6/10
+//Description:
+//Others:
+//********************************//
+
 #include "deal.h"
 
 //***************************************************//
@@ -11,8 +21,8 @@ unsigned char code tx2[] = "AT+CMGF=1\r\n";
 
 unsigned char code tx4[] = "AT+CMGS=\"";
 unsigned char code tx5[] = "\"\r\n";
-
 //***************************************************//
+
 static unsigned char strin[15] = {0};
 static unsigned char page = 1 ,pagenow = 1;
 //***************************************************//

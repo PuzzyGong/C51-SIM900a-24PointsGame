@@ -1,3 +1,13 @@
+//********************************//
+//Copyright(C),
+//FileName:
+//Author:		Puzzy Gong
+//Version:
+//Date:			2022/6/10
+//Description:
+//Others:
+//********************************//
+
 #include "lcd.h"
 
 #define LCD1602_DB P0
